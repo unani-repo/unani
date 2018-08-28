@@ -1,0 +1,39 @@
+B87,0,B870,"Cutaneous myiasis", "Cutaneous myiasis","Myiasis"
+# Category title: Myiasis
+
+Abbreviated description: Cutaneous myiasis
+
+Full description: Cutaneous myiasis
+
+Sources:
+
+Collated by:
+Collation date:
+
+Reviewed by:
+Review date:
+
+Validated by:
+Validation date:
+
+Approval UID:
+
+# Protocol description
+
+Presenting conditions:
+
+History capture guidelines:
+
+General examination guidelines:
+
+Systemic examination guidelines:
+
+Possible differential diagnoses with links to related protocols:
+
+Symptomatic / Palliative management:
+
+Suggested diagnostic tests:
+
+Management:
+
+Follow-up guidelines:

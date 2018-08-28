@@ -1,0 +1,39 @@
+S73041,S,S73041S,"Central subluxation of right hip, sequela", "Central subluxation of right hip, sequela","Central subluxation of right hip"
+# Category title: Central subluxation of right hip
+
+Abbreviated description: Central subluxation of right hip, sequela
+
+Full description: Central subluxation of right hip, sequela
+
+Sources:
+
+Collated by:
+Collation date:
+
+Reviewed by:
+Review date:
+
+Validated by:
+Validation date:
+
+Approval UID:
+
+# Protocol description
+
+Presenting conditions:
+
+History capture guidelines:
+
+General examination guidelines:
+
+Systemic examination guidelines:
+
+Possible differential diagnoses with links to related protocols:
+
+Symptomatic / Palliative management:
+
+Suggested diagnostic tests:
+
+Management:
+
+Follow-up guidelines:

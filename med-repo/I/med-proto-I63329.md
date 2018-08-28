@@ -1,0 +1,39 @@
+I6332,9,I63329,"Cerebral infrc due to thombos unsp anterior cerebral artery", "Cerebral infarction due to thrombosis of unspecified anterior cerebral artery","Cerebral infarction due to thrombosis of anterior cerebral artery"
+# Category title: Cerebral infarction due to thrombosis of anterior cerebral artery
+
+Abbreviated description: Cerebral infrc due to thombos unsp anterior cerebral artery
+
+Full description: Cerebral infarction due to thrombosis of unspecified anterior cerebral artery
+
+Sources:
+
+Collated by:
+Collation date:
+
+Reviewed by:
+Review date:
+
+Validated by:
+Validation date:
+
+Approval UID:
+
+# Protocol description
+
+Presenting conditions:
+
+History capture guidelines:
+
+General examination guidelines:
+
+Systemic examination guidelines:
+
+Possible differential diagnoses with links to related protocols:
+
+Symptomatic / Palliative management:
+
+Suggested diagnostic tests:
+
+Management:
+
+Follow-up guidelines:

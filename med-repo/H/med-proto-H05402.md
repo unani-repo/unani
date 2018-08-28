@@ -1,0 +1,39 @@
+H0540,2,H05402,"Unspecified enophthalmos, left eye", "Unspecified enophthalmos, left eye","Unspecified enophthalmos"
+# Category title: Unspecified enophthalmos
+
+Abbreviated description: Unspecified enophthalmos, left eye
+
+Full description: Unspecified enophthalmos, left eye
+
+Sources:
+
+Collated by:
+Collation date:
+
+Reviewed by:
+Review date:
+
+Validated by:
+Validation date:
+
+Approval UID:
+
+# Protocol description
+
+Presenting conditions:
+
+History capture guidelines:
+
+General examination guidelines:
+
+Systemic examination guidelines:
+
+Possible differential diagnoses with links to related protocols:
+
+Symptomatic / Palliative management:
+
+Suggested diagnostic tests:
+
+Management:
+
+Follow-up guidelines:

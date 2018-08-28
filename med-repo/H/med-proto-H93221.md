@@ -1,0 +1,39 @@
+H9322,1,H93221,"Diplacusis, right ear", "Diplacusis, right ear","Diplacusis"
+# Category title: Diplacusis
+
+Abbreviated description: Diplacusis, right ear
+
+Full description: Diplacusis, right ear
+
+Sources:
+
+Collated by:
+Collation date:
+
+Reviewed by:
+Review date:
+
+Validated by:
+Validation date:
+
+Approval UID:
+
+# Protocol description
+
+Presenting conditions:
+
+History capture guidelines:
+
+General examination guidelines:
+
+Systemic examination guidelines:
+
+Possible differential diagnoses with links to related protocols:
+
+Symptomatic / Palliative management:
+
+Suggested diagnostic tests:
+
+Management:
+
+Follow-up guidelines:

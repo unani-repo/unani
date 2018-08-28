@@ -1,0 +1,39 @@
+Y37440,S,Y37440S,"Milt op involving unarmed hand to hand combat, milt, sequela", "Military operations involving unarmed hand to hand combat, military personnel, sequela","Military operations involving unarmed hand to hand combat, military personnel"
+# Category title: Military operations involving unarmed hand to hand combat, military personnel
+
+Abbreviated description: Milt op involving unarmed hand to hand combat, milt, sequela
+
+Full description: Military operations involving unarmed hand to hand combat, military personnel, sequela
+
+Sources:
+
+Collated by:
+Collation date:
+
+Reviewed by:
+Review date:
+
+Validated by:
+Validation date:
+
+Approval UID:
+
+# Protocol description
+
+Presenting conditions:
+
+History capture guidelines:
+
+General examination guidelines:
+
+Systemic examination guidelines:
+
+Possible differential diagnoses with links to related protocols:
+
+Symptomatic / Palliative management:
+
+Suggested diagnostic tests:
+
+Management:
+
+Follow-up guidelines:

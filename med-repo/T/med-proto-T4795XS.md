@@ -1,0 +1,39 @@
+T4795,XS,T4795XS,"Adverse effect of unsp agents aff the GI sys, sequela", "Adverse effect of unspecified agents primarily affecting the gastrointestinal system, sequela","Adverse effect of unspecified agents primarily affecting the gastrointestinal system"
+# Category title: Adverse effect of unspecified agents primarily affecting the gastrointestinal system
+
+Abbreviated description: Adverse effect of unsp agents aff the GI sys, sequela
+
+Full description: Adverse effect of unspecified agents primarily affecting the gastrointestinal system, sequela
+
+Sources:
+
+Collated by:
+Collation date:
+
+Reviewed by:
+Review date:
+
+Validated by:
+Validation date:
+
+Approval UID:
+
+# Protocol description
+
+Presenting conditions:
+
+History capture guidelines:
+
+General examination guidelines:
+
+Systemic examination guidelines:
+
+Possible differential diagnoses with links to related protocols:
+
+Symptomatic / Palliative management:
+
+Suggested diagnostic tests:
+
+Management:
+
+Follow-up guidelines:

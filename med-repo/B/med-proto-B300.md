@@ -1,0 +1,39 @@
+B30,0,B300,"Keratoconjunctivitis due to adenovirus", "Keratoconjunctivitis due to adenovirus","Viral conjunctivitis"
+# Category title: Viral conjunctivitis
+
+Abbreviated description: Keratoconjunctivitis due to adenovirus
+
+Full description: Keratoconjunctivitis due to adenovirus
+
+Sources:
+
+Collated by:
+Collation date:
+
+Reviewed by:
+Review date:
+
+Validated by:
+Validation date:
+
+Approval UID:
+
+# Protocol description
+
+Presenting conditions:
+
+History capture guidelines:
+
+General examination guidelines:
+
+Systemic examination guidelines:
+
+Possible differential diagnoses with links to related protocols:
+
+Symptomatic / Palliative management:
+
+Suggested diagnostic tests:
+
+Management:
+
+Follow-up guidelines:

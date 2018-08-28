@@ -1,0 +1,39 @@
+V131,XXD,V131XXD,"Pedl cyc pasngr inj pick-up truck, pk-up/van nontraf, subs", "Pedal cycle passenger injured in collision with car, pick-up truck or van in nontraffic accident, subsequent encounter","Pedal cycle passenger injured in collision with car, pick-up truck or van in nontraffic accident"
+# Category title: Pedal cycle passenger injured in collision with car, pick-up truck or van in nontraffic accident
+
+Abbreviated description: Pedl cyc pasngr inj pick-up truck, pk-up/van nontraf, subs
+
+Full description: Pedal cycle passenger injured in collision with car, pick-up truck or van in nontraffic accident, subsequent encounter
+
+Sources:
+
+Collated by:
+Collation date:
+
+Reviewed by:
+Review date:
+
+Validated by:
+Validation date:
+
+Approval UID:
+
+# Protocol description
+
+Presenting conditions:
+
+History capture guidelines:
+
+General examination guidelines:
+
+Systemic examination guidelines:
+
+Possible differential diagnoses with links to related protocols:
+
+Symptomatic / Palliative management:
+
+Suggested diagnostic tests:
+
+Management:
+
+Follow-up guidelines:

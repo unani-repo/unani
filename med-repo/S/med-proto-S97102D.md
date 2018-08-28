@@ -1,0 +1,39 @@
+S97102,D,S97102D,"Crushing injury of unspecified left toe(s), subs encntr", "Crushing injury of unspecified left toe(s), subsequent encounter","Crushing injury of unspecified left toe(s)"
+# Category title: Crushing injury of unspecified left toe(s)
+
+Abbreviated description: Crushing injury of unspecified left toe(s), subs encntr
+
+Full description: Crushing injury of unspecified left toe(s), subsequent encounter
+
+Sources:
+
+Collated by:
+Collation date:
+
+Reviewed by:
+Review date:
+
+Validated by:
+Validation date:
+
+Approval UID:
+
+# Protocol description
+
+Presenting conditions:
+
+History capture guidelines:
+
+General examination guidelines:
+
+Systemic examination guidelines:
+
+Possible differential diagnoses with links to related protocols:
+
+Symptomatic / Palliative management:
+
+Suggested diagnostic tests:
+
+Management:
+
+Follow-up guidelines:

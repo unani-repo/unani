@@ -1,0 +1,39 @@
+M7087,M7088,M7088,"Oth soft tissue disorders related to use/pressure oth site", "Other soft tissue disorders related to use, overuse and pressure other site","Other soft tissue disorders related to use, overuse and pressure of ankle and foot"
+# Category title: Other soft tissue disorders related to use, overuse and pressure of ankle and foot
+
+Abbreviated description: Oth soft tissue disorders related to use/pressure oth site
+
+Full description: Other soft tissue disorders related to use, overuse and pressure other site
+
+Sources:
+
+Collated by:
+Collation date:
+
+Reviewed by:
+Review date:
+
+Validated by:
+Validation date:
+
+Approval UID:
+
+# Protocol description
+
+Presenting conditions:
+
+History capture guidelines:
+
+General examination guidelines:
+
+Systemic examination guidelines:
+
+Possible differential diagnoses with links to related protocols:
+
+Symptomatic / Palliative management:
+
+Suggested diagnostic tests:
+
+Management:
+
+Follow-up guidelines:

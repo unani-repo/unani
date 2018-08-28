@@ -1,0 +1,39 @@
+S36119,A,S36119A,"Unspecified injury of liver, initial encounter", "Unspecified injury of liver, initial encounter","Unspecified injury of liver"
+# Category title: Unspecified injury of liver
+
+Abbreviated description: Unspecified injury of liver, initial encounter
+
+Full description: Unspecified injury of liver, initial encounter
+
+Sources:
+
+Collated by:
+Collation date:
+
+Reviewed by:
+Review date:
+
+Validated by:
+Validation date:
+
+Approval UID:
+
+# Protocol description
+
+Presenting conditions:
+
+History capture guidelines:
+
+General examination guidelines:
+
+Systemic examination guidelines:
+
+Possible differential diagnoses with links to related protocols:
+
+Symptomatic / Palliative management:
+
+Suggested diagnostic tests:
+
+Management:
+
+Follow-up guidelines:

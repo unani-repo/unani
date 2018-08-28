@@ -1,0 +1,39 @@
+H461,0,H4610,"Retrobulbar neuritis, unspecified eye", "Retrobulbar neuritis, unspecified eye","Retrobulbar neuritis"
+# Category title: Retrobulbar neuritis
+
+Abbreviated description: Retrobulbar neuritis, unspecified eye
+
+Full description: Retrobulbar neuritis, unspecified eye
+
+Sources:
+
+Collated by:
+Collation date:
+
+Reviewed by:
+Review date:
+
+Validated by:
+Validation date:
+
+Approval UID:
+
+# Protocol description
+
+Presenting conditions:
+
+History capture guidelines:
+
+General examination guidelines:
+
+Systemic examination guidelines:
+
+Possible differential diagnoses with links to related protocols:
+
+Symptomatic / Palliative management:
+
+Suggested diagnostic tests:
+
+Management:
+
+Follow-up guidelines:

@@ -1,0 +1,39 @@
+A06,1,A061,"Chronic intestinal amebiasis", "Chronic intestinal amebiasis","Amebiasis"
+# Category title: Amebiasis
+
+Abbreviated description: Chronic intestinal amebiasis
+
+Full description: Chronic intestinal amebiasis
+
+Sources:
+
+Collated by:
+Collation date:
+
+Reviewed by:
+Review date:
+
+Validated by:
+Validation date:
+
+Approval UID:
+
+# Protocol description
+
+Presenting conditions:
+
+History capture guidelines:
+
+General examination guidelines:
+
+Systemic examination guidelines:
+
+Possible differential diagnoses with links to related protocols:
+
+Symptomatic / Palliative management:
+
+Suggested diagnostic tests:
+
+Management:
+
+Follow-up guidelines:

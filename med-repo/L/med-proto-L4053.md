@@ -1,0 +1,39 @@
+L405,3,L4053,"Psoriatic spondylitis", "Psoriatic spondylitis","Arthropathic psoriasis"
+# Category title: Arthropathic psoriasis
+
+Abbreviated description: Psoriatic spondylitis
+
+Full description: Psoriatic spondylitis
+
+Sources:
+
+Collated by:
+Collation date:
+
+Reviewed by:
+Review date:
+
+Validated by:
+Validation date:
+
+Approval UID:
+
+# Protocol description
+
+Presenting conditions:
+
+History capture guidelines:
+
+General examination guidelines:
+
+Systemic examination guidelines:
+
+Possible differential diagnoses with links to related protocols:
+
+Symptomatic / Palliative management:
+
+Suggested diagnostic tests:
+
+Management:
+
+Follow-up guidelines:

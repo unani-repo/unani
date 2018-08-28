@@ -1,0 +1,39 @@
+T84052,S,T84052S,"Periprosth osteolys of internal prosth r knee jt, sequela", "Periprosthetic osteolysis of internal prosthetic right knee joint, sequela","Periprosthetic osteolysis of internal prosthetic right knee joint"
+# Category title: Periprosthetic osteolysis of internal prosthetic right knee joint
+
+Abbreviated description: Periprosth osteolys of internal prosth r knee jt, sequela
+
+Full description: Periprosthetic osteolysis of internal prosthetic right knee joint, sequela
+
+Sources:
+
+Collated by:
+Collation date:
+
+Reviewed by:
+Review date:
+
+Validated by:
+Validation date:
+
+Approval UID:
+
+# Protocol description
+
+Presenting conditions:
+
+History capture guidelines:
+
+General examination guidelines:
+
+Systemic examination guidelines:
+
+Possible differential diagnoses with links to related protocols:
+
+Symptomatic / Palliative management:
+
+Suggested diagnostic tests:
+
+Management:
+
+Follow-up guidelines:

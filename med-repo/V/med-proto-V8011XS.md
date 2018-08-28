@@ -1,0 +1,39 @@
+V8011,XS,V8011XS,"Animal-rider injured in collision w ped/anml, sequela", "Animal-rider injured in collision with pedestrian or animal, sequela","Animal-rider injured in collision with pedestrian or animal"
+# Category title: Animal-rider injured in collision with pedestrian or animal
+
+Abbreviated description: Animal-rider injured in collision w ped/anml, sequela
+
+Full description: Animal-rider injured in collision with pedestrian or animal, sequela
+
+Sources:
+
+Collated by:
+Collation date:
+
+Reviewed by:
+Review date:
+
+Validated by:
+Validation date:
+
+Approval UID:
+
+# Protocol description
+
+Presenting conditions:
+
+History capture guidelines:
+
+General examination guidelines:
+
+Systemic examination guidelines:
+
+Possible differential diagnoses with links to related protocols:
+
+Symptomatic / Palliative management:
+
+Suggested diagnostic tests:
+
+Management:
+
+Follow-up guidelines:

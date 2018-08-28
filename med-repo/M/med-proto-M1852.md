@@ -1,0 +1,39 @@
+M185,2,M1852,"Oth unil sec osteoarth of first carpometacarp joint, l hand", "Other unilateral secondary osteoarthritis of first carpometacarpal joint, left hand","Other unilateral secondary osteoarthritis of first carpometacarpal joint"
+# Category title: Other unilateral secondary osteoarthritis of first carpometacarpal joint
+
+Abbreviated description: Oth unil sec osteoarth of first carpometacarp joint, l hand
+
+Full description: Other unilateral secondary osteoarthritis of first carpometacarpal joint, left hand
+
+Sources:
+
+Collated by:
+Collation date:
+
+Reviewed by:
+Review date:
+
+Validated by:
+Validation date:
+
+Approval UID:
+
+# Protocol description
+
+Presenting conditions:
+
+History capture guidelines:
+
+General examination guidelines:
+
+Systemic examination guidelines:
+
+Possible differential diagnoses with links to related protocols:
+
+Symptomatic / Palliative management:
+
+Suggested diagnostic tests:
+
+Management:
+
+Follow-up guidelines:

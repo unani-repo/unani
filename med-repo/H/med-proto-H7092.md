@@ -1,0 +1,39 @@
+H709,2,H7092,"Unspecified mastoiditis, left ear", "Unspecified mastoiditis, left ear","Unspecified mastoiditis"
+# Category title: Unspecified mastoiditis
+
+Abbreviated description: Unspecified mastoiditis, left ear
+
+Full description: Unspecified mastoiditis, left ear
+
+Sources:
+
+Collated by:
+Collation date:
+
+Reviewed by:
+Review date:
+
+Validated by:
+Validation date:
+
+Approval UID:
+
+# Protocol description
+
+Presenting conditions:
+
+History capture guidelines:
+
+General examination guidelines:
+
+Systemic examination guidelines:
+
+Possible differential diagnoses with links to related protocols:
+
+Symptomatic / Palliative management:
+
+Suggested diagnostic tests:
+
+Management:
+
+Follow-up guidelines:

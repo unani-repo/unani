@@ -1,0 +1,39 @@
+Q30,9,Q309,"Congenital malformation of nose, unspecified", "Congenital malformation of nose, unspecified","Congenital malformations of nose"
+# Category title: Congenital malformations of nose
+
+Abbreviated description: Congenital malformation of nose, unspecified
+
+Full description: Congenital malformation of nose, unspecified
+
+Sources:
+
+Collated by:
+Collation date:
+
+Reviewed by:
+Review date:
+
+Validated by:
+Validation date:
+
+Approval UID:
+
+# Protocol description
+
+Presenting conditions:
+
+History capture guidelines:
+
+General examination guidelines:
+
+Systemic examination guidelines:
+
+Possible differential diagnoses with links to related protocols:
+
+Symptomatic / Palliative management:
+
+Suggested diagnostic tests:
+
+Management:
+
+Follow-up guidelines:

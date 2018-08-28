@@ -1,0 +1,39 @@
+B88,2,B882,"Other arthropod infestations", "Other arthropod infestations","Other infestations"
+# Category title: Other infestations
+
+Abbreviated description: Other arthropod infestations
+
+Full description: Other arthropod infestations
+
+Sources:
+
+Collated by:
+Collation date:
+
+Reviewed by:
+Review date:
+
+Validated by:
+Validation date:
+
+Approval UID:
+
+# Protocol description
+
+Presenting conditions:
+
+History capture guidelines:
+
+General examination guidelines:
+
+Systemic examination guidelines:
+
+Possible differential diagnoses with links to related protocols:
+
+Symptomatic / Palliative management:
+
+Suggested diagnostic tests:
+
+Management:
+
+Follow-up guidelines:

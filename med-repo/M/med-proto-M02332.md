@@ -1,0 +1,39 @@
+M0233,2,M02332,"Reiter's disease, left wrist", "Reiter's disease, left wrist","Reiter's disease, wrist"
+# Category title: Reiter's disease, wrist
+
+Abbreviated description: Reiter's disease, left wrist
+
+Full description: Reiter's disease, left wrist
+
+Sources:
+
+Collated by:
+Collation date:
+
+Reviewed by:
+Review date:
+
+Validated by:
+Validation date:
+
+Approval UID:
+
+# Protocol description
+
+Presenting conditions:
+
+History capture guidelines:
+
+General examination guidelines:
+
+Systemic examination guidelines:
+
+Possible differential diagnoses with links to related protocols:
+
+Symptomatic / Palliative management:
+
+Suggested diagnostic tests:
+
+Management:
+
+Follow-up guidelines:

@@ -1,0 +1,39 @@
+S1982,XA,S1982XA,"Other specified injuries of cervical trachea, init encntr", "Other specified injuries of cervical trachea, initial encounter","Other specified injuries of cervical trachea"
+# Category title: Other specified injuries of cervical trachea
+
+Abbreviated description: Other specified injuries of cervical trachea, init encntr
+
+Full description: Other specified injuries of cervical trachea, initial encounter
+
+Sources:
+
+Collated by:
+Collation date:
+
+Reviewed by:
+Review date:
+
+Validated by:
+Validation date:
+
+Approval UID:
+
+# Protocol description
+
+Presenting conditions:
+
+History capture guidelines:
+
+General examination guidelines:
+
+Systemic examination guidelines:
+
+Possible differential diagnoses with links to related protocols:
+
+Symptomatic / Palliative management:
+
+Suggested diagnostic tests:
+
+Management:
+
+Follow-up guidelines:

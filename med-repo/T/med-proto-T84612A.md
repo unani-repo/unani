@@ -1,0 +1,39 @@
+T84612,A,T84612A,"Infect/inflm reaction due to int fix of right radius, init", "Infection and inflammatory reaction due to internal fixation device of right radius, initial encounter","Infection and inflammatory reaction due to internal fixation device of right radius"
+# Category title: Infection and inflammatory reaction due to internal fixation device of right radius
+
+Abbreviated description: Infect/inflm reaction due to int fix of right radius, init
+
+Full description: Infection and inflammatory reaction due to internal fixation device of right radius, initial encounter
+
+Sources:
+
+Collated by:
+Collation date:
+
+Reviewed by:
+Review date:
+
+Validated by:
+Validation date:
+
+Approval UID:
+
+# Protocol description
+
+Presenting conditions:
+
+History capture guidelines:
+
+General examination guidelines:
+
+Systemic examination guidelines:
+
+Possible differential diagnoses with links to related protocols:
+
+Symptomatic / Palliative management:
+
+Suggested diagnostic tests:
+
+Management:
+
+Follow-up guidelines:

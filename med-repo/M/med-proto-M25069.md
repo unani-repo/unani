@@ -1,0 +1,39 @@
+M2506,9,M25069,"Hemarthrosis, unspecified knee", "Hemarthrosis, unspecified knee","Hemarthrosis, knee"
+# Category title: Hemarthrosis, knee
+
+Abbreviated description: Hemarthrosis, unspecified knee
+
+Full description: Hemarthrosis, unspecified knee
+
+Sources:
+
+Collated by:
+Collation date:
+
+Reviewed by:
+Review date:
+
+Validated by:
+Validation date:
+
+Approval UID:
+
+# Protocol description
+
+Presenting conditions:
+
+History capture guidelines:
+
+General examination guidelines:
+
+Systemic examination guidelines:
+
+Possible differential diagnoses with links to related protocols:
+
+Symptomatic / Palliative management:
+
+Suggested diagnostic tests:
+
+Management:
+
+Follow-up guidelines:

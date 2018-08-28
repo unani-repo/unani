@@ -1,0 +1,39 @@
+V00311,S,V00311S,"Fall from snowboard, sequela", "Fall from snowboard, sequela","Fall from snowboard"
+# Category title: Fall from snowboard
+
+Abbreviated description: Fall from snowboard, sequela
+
+Full description: Fall from snowboard, sequela
+
+Sources:
+
+Collated by:
+Collation date:
+
+Reviewed by:
+Review date:
+
+Validated by:
+Validation date:
+
+Approval UID:
+
+# Protocol description
+
+Presenting conditions:
+
+History capture guidelines:
+
+General examination guidelines:
+
+Systemic examination guidelines:
+
+Possible differential diagnoses with links to related protocols:
+
+Symptomatic / Palliative management:
+
+Suggested diagnostic tests:
+
+Management:
+
+Follow-up guidelines:

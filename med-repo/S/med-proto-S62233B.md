@@ -1,0 +1,39 @@
+S62233,B,S62233B,"Oth disp fx of base of 1st MC bone, unsp hand, 7thB", "Other displaced fracture of base of first metacarpal bone, unspecified hand, initial encounter for open fracture","Other displaced fracture of base of first metacarpal bone, unspecified hand"
+# Category title: Other displaced fracture of base of first metacarpal bone, unspecified hand
+
+Abbreviated description: Oth disp fx of base of 1st MC bone, unsp hand, 7thB
+
+Full description: Other displaced fracture of base of first metacarpal bone, unspecified hand, initial encounter for open fracture
+
+Sources:
+
+Collated by:
+Collation date:
+
+Reviewed by:
+Review date:
+
+Validated by:
+Validation date:
+
+Approval UID:
+
+# Protocol description
+
+Presenting conditions:
+
+History capture guidelines:
+
+General examination guidelines:
+
+Systemic examination guidelines:
+
+Possible differential diagnoses with links to related protocols:
+
+Symptomatic / Palliative management:
+
+Suggested diagnostic tests:
+
+Management:
+
+Follow-up guidelines:

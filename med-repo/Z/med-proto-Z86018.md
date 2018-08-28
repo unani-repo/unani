@@ -1,0 +1,39 @@
+Z8601,8,Z86018,"Personal history of other benign neoplasm", "Personal history of other benign neoplasm","Personal history of benign neoplasm"
+# Category title: Personal history of benign neoplasm
+
+Abbreviated description: Personal history of other benign neoplasm
+
+Full description: Personal history of other benign neoplasm
+
+Sources:
+
+Collated by:
+Collation date:
+
+Reviewed by:
+Review date:
+
+Validated by:
+Validation date:
+
+Approval UID:
+
+# Protocol description
+
+Presenting conditions:
+
+History capture guidelines:
+
+General examination guidelines:
+
+Systemic examination guidelines:
+
+Possible differential diagnoses with links to related protocols:
+
+Symptomatic / Palliative management:
+
+Suggested diagnostic tests:
+
+Management:
+
+Follow-up guidelines:

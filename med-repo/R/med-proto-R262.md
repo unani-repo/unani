@@ -1,0 +1,39 @@
+R26,2,R262,"Difficulty in walking, not elsewhere classified", "Difficulty in walking, not elsewhere classified","Abnormalities of gait and mobility"
+# Category title: Abnormalities of gait and mobility
+
+Abbreviated description: Difficulty in walking, not elsewhere classified
+
+Full description: Difficulty in walking, not elsewhere classified
+
+Sources:
+
+Collated by:
+Collation date:
+
+Reviewed by:
+Review date:
+
+Validated by:
+Validation date:
+
+Approval UID:
+
+# Protocol description
+
+Presenting conditions:
+
+History capture guidelines:
+
+General examination guidelines:
+
+Systemic examination guidelines:
+
+Possible differential diagnoses with links to related protocols:
+
+Symptomatic / Palliative management:
+
+Suggested diagnostic tests:
+
+Management:
+
+Follow-up guidelines:

@@ -1,0 +1,39 @@
+H5932,9,H59329,"Postproc hemor of unsp and adnexa following other procedure", "Postprocedural hemorrhage of unspecified eye and adnexa following other procedure","Postprocedural hemorrhage of eye and adnexa following other procedure"
+# Category title: Postprocedural hemorrhage of eye and adnexa following other procedure
+
+Abbreviated description: Postproc hemor of unsp and adnexa following other procedure
+
+Full description: Postprocedural hemorrhage of unspecified eye and adnexa following other procedure
+
+Sources:
+
+Collated by:
+Collation date:
+
+Reviewed by:
+Review date:
+
+Validated by:
+Validation date:
+
+Approval UID:
+
+# Protocol description
+
+Presenting conditions:
+
+History capture guidelines:
+
+General examination guidelines:
+
+Systemic examination guidelines:
+
+Possible differential diagnoses with links to related protocols:
+
+Symptomatic / Palliative management:
+
+Suggested diagnostic tests:
+
+Management:
+
+Follow-up guidelines:

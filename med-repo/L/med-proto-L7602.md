@@ -1,0 +1,39 @@
+L760,2,L7602,"Intraop hemor/hemtom of skin, subcu comp oth procedure", "Intraoperative hemorrhage and hematoma of skin and subcutaneous tissue complicating other procedure","Intraoperative hemorrhage and hematoma of skin and subcutaneous tissue complicating a procedure"
+# Category title: Intraoperative hemorrhage and hematoma of skin and subcutaneous tissue complicating a procedure
+
+Abbreviated description: Intraop hemor/hemtom of skin, subcu comp oth procedure
+
+Full description: Intraoperative hemorrhage and hematoma of skin and subcutaneous tissue complicating other procedure
+
+Sources:
+
+Collated by:
+Collation date:
+
+Reviewed by:
+Review date:
+
+Validated by:
+Validation date:
+
+Approval UID:
+
+# Protocol description
+
+Presenting conditions:
+
+History capture guidelines:
+
+General examination guidelines:
+
+Systemic examination guidelines:
+
+Possible differential diagnoses with links to related protocols:
+
+Symptomatic / Palliative management:
+
+Suggested diagnostic tests:
+
+Management:
+
+Follow-up guidelines:
