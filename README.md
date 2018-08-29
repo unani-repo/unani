@@ -7,6 +7,8 @@ cat codes.csv | awk -F, '{tmp = "med-repo/"substr($1,1,1)"/med-proto-"$3".md"; p
 for n in `find med-repo -type f`; do cat $n | awk -F\" '{print "# Category title: "$6"\n\
 nAbbreviated description: "$2"\n\nFull description: "$4"\n"}' >> $n ; cat templates/protocol-body.txt >> $n; done
 
+for n in `find med-repo/`; do cat templates/notices.txt >> $n; done
+
 # Disclaimer 1 :
 The information in the document is not meant to be used first point of reference in any of the medical interventions.This is just a compilation of information for academic and knowledge purposes.
 
